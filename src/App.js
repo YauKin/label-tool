@@ -5,6 +5,8 @@ function App() {
   return (
     <div>
       Hello Lia!
+      <b />
+      Hello Joe!
     </div>
   );
 }
